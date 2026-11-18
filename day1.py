@@ -1,5 +1,4 @@
 #print statement
-
 print("welcome to the social eagle ai community")
 
 #variables
